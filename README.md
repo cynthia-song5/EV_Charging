@@ -3,4 +3,5 @@ This project investigates the question "is investing in EVs in regions highly su
 
 ## Features
 Heatmap: Show EV charging station density across the United States
+
 Double Bar Graph: Compares the number of EV stations in different regions vs. disaster frequency
